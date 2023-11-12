@@ -36,11 +36,15 @@ main{
 
 .container{
     width: 15vw;
-    height: 15vh;
+    height: 20vh;
     background: red;
-    background: url("robot.svg") no-repeat;
+    background: url("Elena_MANGO.png") no-repeat;
     background-size: contain;
     background-position: bottom 0 right 0;
+}
+
+textarea{
+    max-height: 20vh;
 }
 
 #root{
