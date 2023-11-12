@@ -1,2 +1,5 @@
-import file from "./product_data.json" assert { type: 'json' };
+"use strict";
+
+import file from "./product_data.json" assert {type: 'json' }
+
 console.log(file);
